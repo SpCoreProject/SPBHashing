@@ -1,0 +1,11 @@
+C:\C-Sharp\SPBHashing\bin\Debug\net5.0\SPBHashing.deps.json
+C:\C-Sharp\SPBHashing\bin\Debug\net5.0\SPBHashing.dll
+C:\C-Sharp\SPBHashing\bin\Debug\net5.0\SPBHashing.pdb
+C:\C-Sharp\SPBHashing\obj\Debug\net5.0\SPBHashing.GeneratedMSBuildEditorConfig.editorconfig
+C:\C-Sharp\SPBHashing\obj\Debug\net5.0\SPBHashing.AssemblyInfoInputs.cache
+C:\C-Sharp\SPBHashing\obj\Debug\net5.0\SPBHashing.AssemblyInfo.cs
+C:\C-Sharp\SPBHashing\obj\Debug\net5.0\SPBHashing.csproj.CoreCompileInputs.cache
+C:\C-Sharp\SPBHashing\obj\Debug\net5.0\SPBHashing.dll
+C:\C-Sharp\SPBHashing\obj\Debug\net5.0\refint\SPBHashing.dll
+C:\C-Sharp\SPBHashing\obj\Debug\net5.0\SPBHashing.pdb
+C:\C-Sharp\SPBHashing\obj\Debug\net5.0\ref\SPBHashing.dll
